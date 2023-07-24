@@ -1,0 +1,25 @@
+{
+  "name": "0x00-es6_basic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "babel-jest": "^29.6.1",
+    "eslint": "^8.45.0"
+  },
+  "devDependencies": {
+    "jest": "^29.6.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "0x00-ES6_basic"
+  },
+  "keywords": [
+    "0x00-ES6_basic"
+  ],
+  "author": "Hilya Ntinda",
+  "license": "ISC"
+}
